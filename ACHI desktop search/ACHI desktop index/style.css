@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: brown;
+    display: flex;
+    color: white;  
+}
+.hed1{
+    text-transform: capitalize;
+    display: flex;
+    justify-content: space-between;   
+    padding-right: 50%;
+    align-items: center;
+    
+}
+.hedd1{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    word-spacing: 10px;
+    padding: 0%;  
+}
+.indexxx{
+    display: flex;
+}
+.sr{
+    filter: invert(100%);
+    padding-top: 20%;	
+}
+.PRT2{
+    background-image: url(./Images/group-1.jpg) ;
+    background-size: cover;
+    padding: 20%;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+    padding-top: 40%;
+}
+.transparent{
+    background-color:rgba(250,250,250,0.9);
+    color: black;
+    padding: 1%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.ser{
+    background-color: red;
+}
+.inp{
+    padding-right: 50%;
+}
+.prt3{
+    display: flex;
+    text-align: center;
+    
+}
+.prti3{
+    margin-left: 2cm;
+    padding-right: 2cm;
+}
+.prtii3{
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.prt4{
+    display: flex;
+    text-align: center;
+}
+.prti4{
+    margin-left: 2cm;
+    padding-right: 2cm;
+}
+.prtii4{
+    margin-left: 8cm;
+    margin-right: 7.5cm;
+}
+.prt6{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    color: white;     
+}
+.sr3{
+ border-radius: 50%;
+}
+.prt7{
+    background-color: darkslategray;
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    color: white;  
+}
+.prt8{
+    background-color: darkcyan;
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    color: white;  
+}
+.prti6{
+    background-color: white;
+    border: none;
+    margin-right: 20cm;
+    color: black;
+}
+.prti7{
+    background-color: white;
+    border: none;
+    margin-right: 20cm;
+    color: black;    
+}
+.pg1{
+    display: flex;
+    background-color: black;
+    padding: 10%;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.pg2{
+    color: white;
+    display: flex;
+    margin-right: 5%;
+    margin-left: 15%;
+}
+.pg3{
+    filter: invert(100%);
+    border-style: solid;
+    border-radius: 50%;
+    
+}
+.pg4{
+    color: white;
+    display: flex;
+    margin-right: 60%;
+}
+.hm{
+    padding-right: 5%;
+}
+.fb{
+    padding-left: 5%;
+}
+.fr1{
+    background-color: black;
+}
+.fin{
+    display: flex;
+    color: white;
+    margin-right: 10%;
+}
+.sb{
+    padding-left: 20%;
+    padding-right: 10%;
+}
+.ctc{
+    padding-right: 10%;
+    
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
